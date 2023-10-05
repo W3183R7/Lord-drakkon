@@ -3,7 +3,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color:#930;
+    color:yellow;
     font-size: 20px;
     background-color:#200;
     padding: 10px;
@@ -12,7 +12,7 @@ body {
 
 header {
     text-align: center;
-    color: #800;
+    color:#200;
     background-color:#600;
     padding: 10px;
     background-size: center;
