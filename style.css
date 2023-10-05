@@ -1,26 +1,48 @@
 body {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEfyKvwmsL3zJMgW8Q0bChg2jobb3B9-Vdw&usqp=CAU');
+    background-image:url('https://media.tenor.com/makoRL0gbkQAAAAM/scorpion-mortal-kombat.gif')
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color:darkred;
-    font-size: 36px;
+    color:#930;
+    font-size: 20px;
+    background-color:#200;
+    padding: 10px;
+
 }
 
 header {
     text-align: center;
-    color: #fff;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 20px;
+    color: #800;
+    background-color:#600;
+    padding: 10px;
+    background-size: center;
+    background-blend-mode: 23px;
 }
 
 h1 {
+    background-image:url('https://media.tenor.com/makoRL0gbkQAAAAM/scorpion-mortal-kombat.gif')
     font-size: 36px;
     margin: 0;
+    color:gold;
 }
 
 h2 {
     font-size: 24px;
     margin: 10px 0;
+    color:red;
 }
  
+ l1 {
+   font-size: 18px;
+   margin: 12px 0;
+   color:red;
+ }
+
+main {
+background-color:darkred;
+background-repeat: no-reapet;
+background-size: cover;
+font-size: 18px;
+background-image:url('https://media.tenor.com/makoRL0gbkQAAAAM/scorpion-mortal-kombat.gif') 
+
+}
