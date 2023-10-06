@@ -3,6 +3,7 @@ body {
     font-size: 30px;
     padding: 10px;
     background-size: cover;
+    background-clip: border-box;
     background-attachment: fixed;
     background-position: 100%;
     background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLC73XeXUcJ7BLb5YyC-GfLi-l48DTUzChQ&usqp=CAU')
@@ -18,6 +19,7 @@ header {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    background-clip: border-box;
     background-image:url('https://media.tenor.com/jBGMjmjO0UQAAAAC/mortal-kombat-scorpion.gif;')
 }
 
@@ -51,9 +53,9 @@ background-image:url('https://media.tenor.com/makoRL0gbkQAAAAM/scorpion-mortal-k
 }
 
 section {
-  font-size: 18px;
-  padding: 10px;
+  font-size: 24px;
+  padding: 40px;
   margin: 18px;
   background-attachment: fixed;
-  
+  background-clip: border-box;
 }
