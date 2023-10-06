@@ -56,5 +56,5 @@ section {
   font-size: 28px;
   padding: 30px;
   margin: 18px;
-  background-clip: padding-box;
+  background-clip: content-box;
 }
