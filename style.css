@@ -57,4 +57,5 @@ section {
   padding: 30px;
   margin: 18px;
   background-clip: content-box;
+  background-size:auto;
 }
