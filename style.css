@@ -3,8 +3,9 @@ body {
     font-size: 30px;
     padding: 10px;
     background-size: cover;
-    background-position: 10%;
-    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhskOzhWjd8g2XGCmo0CsAG-nJHORIV_dNgQ&usqp=CAU')
+    background-attachment: fixed;
+    background-position: 100%;
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLC73XeXUcJ7BLb5YyC-GfLi-l48DTUzChQ&usqp=CAU')
 
 }
 
