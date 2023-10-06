@@ -13,7 +13,6 @@ body {
 header {
     text-align: center;
     color:#200;
-    background-color:#600;
     padding: 10px;
     background-position: 50%;
     background-attachment: fixed;
@@ -41,11 +40,12 @@ h2 {
  }
 
 main {
+    text-align: center;
 background-color:darkred;
 background-repeat: no-reapet;
 background-attachment: fixed;
 background-size: cover;
-background-clip: padding-box;
+background-clip: border-box;
 font-size: 18px;
 background-position: 50%;
 background-image:url('https://media.tenor.com/makoRL0gbkQAAAAM/scorpion-mortal-kombat.gif')
@@ -53,9 +53,8 @@ background-image:url('https://media.tenor.com/makoRL0gbkQAAAAM/scorpion-mortal-k
 }
 
 section {
-  font-size: 24px;
-  padding: 40px;
+  font-size: 28px;
+  padding: 30px;
   margin: 18px;
-  background-attachment: fixed;
-  background-clip: border-box;
+  background-clip: padding-box;
 }
